@@ -1,2 +1,6 @@
 # wither-App
-withr api  java  ->> Json opject  -- get input value -- api wither json data
+# what I Learn
+
+ * Json object  
+ * get input value
+ * api wither json data
